@@ -9,11 +9,11 @@
 
 double calcAverage(const std::vector<int>& values){
     if (!values.empty()) {
-        int total{0};
+        double total{0};
         for (auto i{0}; i < values.size(); ++i) {
             total += values[i];
         }
-        return static_cast<double> (total) / values.size();
+        return total / values.size();
     } else {
         return 0;
     }
