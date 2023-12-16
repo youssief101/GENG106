@@ -1,17 +1,16 @@
-1- Create a function that greets the user with a message: i.e "Hello, Khaled"?
-
-2- Write a function called favorite_book() that accepts one parameter, title.
-   The function should print a message, such as one of my favorite books is "book name".
-   Call the function, making sure to include as an argument in the function call.
-   
-3- (Try it yourself) Write a function called make_shirt() that accepts a size and the text of a message that should be printed on the shirt.
-   The function should print a sentence summarizing the size of the shirt and the message printed on it.
-   Call the function once using positional arguments to make a shirt. Call the function a second time using keyword arguments.
-   
-4- (Try it yourself) Modify the make_shirt() function so that shirts are large by default with a message that reads I love Python.
-   Make a large shirt and a medium shirt with the default message, and a shirt of any size with a different message.
-
-5- (Try it yourself) Write a function called describe_city() that accepts the name of a city and its country.
-   The function should print a simple sentence, such as Reykjavik is in Iceland.
-   Give the parameter for the country a default value.
-   Call your function for three different cities, at least one of which is not in the default country.
+10 0.17365
+15 0.25882
+20 0.34202
+25 0.42262
+30 0.50000
+35 0.57358
+40 0.64279
+45 0.70711
+50 0.76604
+55 0.81915
+60 0.86603
+65 0.90631
+70 0.93969
+75 0.96593
+80 0.98481
+85 0.99619
